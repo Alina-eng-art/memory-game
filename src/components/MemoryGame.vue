@@ -1,7 +1,5 @@
 <template>
 
-<link rel="manifest" href="/manifest.json">
-<meta name="theme-color" content="#020617">
 
   <section class="memory-game">
 
